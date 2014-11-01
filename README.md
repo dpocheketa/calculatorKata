@@ -1,4 +1,4 @@
 calculatorKata
 ==============
 
-This kata for TDD on string calculator project
+This is kata for TDD on string calculator project
